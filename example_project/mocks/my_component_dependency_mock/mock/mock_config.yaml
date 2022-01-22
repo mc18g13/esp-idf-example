@@ -1,0 +1,4 @@
+:cmock:
+  :plugins:
+    - expect
+    - expect_any_args
